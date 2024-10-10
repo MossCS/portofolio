@@ -1,0 +1,44 @@
+{
+    "project": [
+        {
+            "name": "WEBSITE OSIS",
+            "year": "2024",
+            "as": "Developer",
+            "description": "Website OSIS SMAK Santa Agnes Surabaya. Untuk memberikan informasi kepada masyarakat tentang OSIS SMAK Santa Agnes.",
+            "picture": "https://ibb.co.com/CnrS9Rn",
+            "link": "https://osisstag.github.io"
+        },
+        {
+            "name": "BOT WHATSAPP OSIS",
+            "year": "2024",
+            "as": "Developer",
+            "description": "BOT WA OSIS Berbasis JavaScript dengan fitur yang sangat lengkap seperti reminder, tagall, dan infogroup.",
+            "picture": "https://ibb.co.com/j5m6t1B",
+            "link": "https://wa.me/6282141850862"
+        },
+        {
+            "name": "Drama Kolosal",
+            "year": "2024",
+            "as": "Videographer & Editor",
+            "description": "Creating a Sweet Seventeen Birthday video for Laurensia Janice.",
+            "picture": "",
+            "link": ""
+        },
+        {
+            "name": "STAG SHORT MOVIE",
+            "year": "2024",
+            "as": "Organizer",
+            "description": "Producing a short movie based on the modernized adaptation of an Indonesian folktales, delivered in the Javanese language. While we have brought it into the modern context, the fundamental concepts and messages remain intact for the audience.",
+            "picture": "https://i.ibb.co.com/RjbKw6J/Wektu.jpg",
+            "link": ""
+        },
+        {
+            "name": "STAG SHORT MOVIE - Bimantara",
+            "year": "2023",
+            "as": "Videographer",
+            "description": "Creating a social experiment interview video focused on Pancasila at the Tugu Pahlawan monument in Surabaya. Through this video, the aim is to raise awareness about the significance of the values embodied in Pancasila.",
+            "picture": "https://i.ibb.co.com/0m4Gjgt/Sekarep-Pancasila.jpg",
+            "link": ""
+        }
+    ]
+}
