@@ -18,7 +18,7 @@ function loadData(){
     ====================================
     */
     // Fetch Occupation
-    fetch("")
+    fetch("https://mosscs.github.io/portofolio/data/occup.json")
     .then(response => response.json())
     .then(data => getOccup(data));
 
@@ -40,7 +40,7 @@ function loadData(){
     ====================================
     */
     // Fetch Ability
-    fetch("https://yohanesrian.github.io/portofolio_data/ability.json")
+    fetch("https://mosscs.github.io/portofolio/data/ability.json")
     .then(response => response.json())
     .then(data => getAbility(data));
 
@@ -90,7 +90,7 @@ function loadData(){
     copyMarquee("achievement");
 
     // Fetch achievement
-    fetch("https://yohanesrian.github.io/portofolio_data/achievement.json")
+    fetch("https://mosscs.github.io/portofolio/data/achievement.json")
     .then(response => response.json())
     .then(data => getAchievement(data));
 
@@ -119,7 +119,7 @@ function loadData(){
     copyMarquee("project");
 
     // Fetch Project
-    fetch("https://yohanesrian.github.io/portofolio_data/project.json")
+    fetch("https://mosscs.github.io/portofolio/data/project.json")
     .then(response => response.json())
     .then(data => getProject(data));
 
