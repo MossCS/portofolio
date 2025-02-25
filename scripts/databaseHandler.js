@@ -63,12 +63,12 @@ function loadData(){
     */
     for(var i = 0; i < 5; i++){
         let newSpan = document.createElement('span');
-        newSpan.innerHTML = "Raka Prasetyo";
+        newSpan.innerHTML = "Moses Christian";
         document.querySelector("#top .mq-name-items").appendChild(newSpan);
     }
     for(var i = 0; i < 5; i++){
         let newSpan = document.createElement('span');
-        newSpan.innerHTML = "Raka Prasetyo";
+        newSpan.innerHTML = "Moses Christian";
         document.querySelector("#bottom .mq-name-items").appendChild(newSpan);
     }
     var copy1 = document.querySelector("#top .mq-name-items").cloneNode(true);
